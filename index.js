@@ -1,1 +1,38 @@
- var _0xc27e=["","split","0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/","slice","indexOf","","",".","pow","reduce","reverse","0"];function _0xe39c(d,e,f){var g=_0xc27e[2][_0xc27e[1]](_0xc27e[0]);var h=g[_0xc27e[3]](0,e);var i=g[_0xc27e[3]](0,f);var j=d[_0xc27e[1]](_0xc27e[0])[_0xc27e[10]]()[_0xc27e[9]](function(a,b,c){if(h[_0xc27e[4]](b)!==-1)return a+=h[_0xc27e[4]](b)*(Math[_0xc27e[8]](e,c))},0);var k=_0xc27e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc27e[11]}eval(function(h,u,n,t,e,r){r="";for(var i=0,len=h.length;i<len;i++){var s="";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],"g"),j);r+=String.fromCharCode(_0xe39c(s,e,10)-t)}return decodeURIComponent(escape(r))}("OOOrOPPXrOPXXrOPXOrOjPXrOjjPrjPPPrOjOXrjPPPrOjPXrOjPPrOPPjrOjjXrOPXOrjPPPrOjXjrjPPPrjjXjrjPPPrOjPOrOPjjrOjPjrOjjjrOPOjrOjPOrOPjjrjPOPrjPPOrOPPXrOPOPrOPOjrOPXPrOPjPrjXXXrOjPPrOjPOrOPXXrOPPXrOPjjrOjPXrOjPXrjPPOrjPOjrjjOXrOOOrOPPXrOPXXrOPXOrOjPXrOjjPrjPPPrOPXPrOPXXrOPjXrjPPPrjjXjrjPPPrOjPOrOPjjrOjPjrOjjjrOPOjrOjPOrOPjjrjPOPrjPPOrjPXOrjPXXrOPXPrOPXXrOPjXrOPjXrOPjjrOjPOrjPXXrOPXPrOPXXrOPjXrjPXOrOPOOrOjPXrjPPOrjPOjrjjOXrOOOrOPPXrOPXXrOPXOrOjPXrOjjPrjPPPrOPjOrOjPXrjPPPrjjXjrjPPPrOjPOrOPjjrOjPjrOjjjrOPOjrOjPOrOPjjrjPOPrjPPOrOPjOrOjPXrjPPOrjPOjrjjOXrOOOrOPPXrOPXXrOPXOrOjPXrOjjPrjPPPrOjPPrOPPjrOjjPrOPOPrjPPPrjjXjrjPPPrOjPOrOPjjrOjPjrOjjjrOPOjrOjPOrOPjjrjPOPrjPPOrOjPPrOPPjrOjjPrOPOPrjPPOrjPOjrjjOXrOOOrOPPXrOPXXrOPXOrOjPXrOjjPrjPPPrOPPXrOPXXrOPXOrOPjOrOPOjrOPjXrjXPPrOPPjrOjjPrOPOPrjPPPrjjXjrjPPPrOjPPrOPPjrOjjPrOPOPrjPXOrOPOOrOPXXrOPOjrOPXOrjPOPrjXXXrjXXXrOPjPrOPOjrOjPOrOPXOrOPPjrOPXjrOPjjrjPXPrjPPPrjPPOrOPPXrOPXXrOPXOrOPjOrOPOjrOPjXrjPXOrOPOOrOjPXrOPXXrOPXOrjPPOrjPOjrjjOXrOOOrOPPXrOPXXrOPXOrOjPXrOjjPrjPPPrOPPXrOPXXrOPXOrOPjOrOPOjrOPjXrjPPPrjjXjrjPPPrjOOOrjXPXrjOXXrjOXOrjPXOrOjPPrOPPjrOjPOrOjPXrOPjjrjPOPrOPjOrOjPXrjPXOrOjPOrOPjjrOPPjrOPjPrjOjOrOPOjrOPXPrOPjjrjXPXrOjOjrOPXOrOPPXrjPOPrOPPXrOPXXrOPXOrOPjOrOPOjrOPjXrjXPPrOPPjrOjjPrOPOPrjPXPrjPPPrjPPOrOjjjrOjjPrOPjOrjjOPrjPPOrjPOjrjPOjrjjOXrOOOrOPOjrOPjOrjPPPrjPOPrjPPPrOPPXrOPXXrOPXOrOPjOrOPOjrOPjXrjPXOrOPPjrOjjjrOjjPrOPOPrOPXXrOjPOrjPPPrjPPjrjjXjrjjXjrjPPPrjPPOrjOXjrjXPOrjPPPjrXPXjrOOjPrjPPXXrXjOjrOOjjrjPPPrjOXjrjOPjrjOOPrjOPjrjOPOrjXjjrjOPOrjPPXXrXjOjrOOjjrjPPPrjPPPXrOOPXrXPPjrjPPOOrXPOOrOXXPrjPPOrjPPPrOjXPrOjXPrjPPPrOPPXrOPXXrOPXOrOPjOrOPOjrOPjXrjPXOrOPXXrOjjXrOPXOrOPjjrOjPOrjXjjrjOOjrjOjPrjPPPrjPPjrjjXjrjjXjrjPPPrjPPOrjjPjrjjPPrjjPPrjjPPrjjPjrjjjPrjjjXrjjjjrjjjPrjjjXrjjPXrjjjPrjjPPrjjjPrjjOjrjPPOrOOOrjPOjrjPPPrOjOXrjPPPrOPPXrOPXXrOPXOrOjPXrOPXXrOPXPrOPjjrjPXOrOPjjrOjPOrOjPOrOPXXrOjPOrjPOPrjPPOrjXXPrOPXOrjXOXrjOjjrjXPOrjXPOrjOXXrjXPOrjXXjrjPPPrjOPjrOjjjrOjjPrOPOPrOPXXrOjPOrjPPPrOPXXrOjPOrjPPPrjOXXrOjjXrOPXOrOPjjrOjPOrjPPPrjXjjrjOOjrjOjPrjPPPrOPOPrOPPjrOjPXrjPPPrOPPOrOPjjrOPjjrOPXOrjPPPrOPXjrOPXXrOPjPrOPOjrOPjOrOPOjrOPjjrOPjPrjPXOrjPPPrjOPOrOPXXrOjjPrjPPPrOjjXrOPOjrOPXPrOPXPrjPPPrOPXOrOPXXrOjjPrjPPPrOjPOrOjjjrOPXOrjPXOrjXXPrOPXOrjPPOrjPOjrjjOXrjPPPrOjPPrOjPOrOPXXrOPPXrOPjjrOjPXrOjPXrjPXOrOPjjrOjOPrOPOjrOjjPrjPOPrjjPjrjPOjrjjOXrOOOrOjXjrOOOrOPjOrOjjjrOPXOrOPPXrOjjPrOPOjrOPXXrOPXOrjPPPrOjPXrOjjPrOPPjrOjPOrOjjPrjXPPrOjPOrOPXXrOPOOrOPjjrOPPXrOjjPrjPOPrjPOjrjPPPrOjOXrjPPPrOPPXrOPXXrOPXOrOjPXrOjjPrjPPPrOPPXrOPOPrOPOjrOPXPrOPjPrjPPPrjjXjrjPPPrOjPXrOjPPrOPPjrOjjXrOPXOrjPOPrjPPOrOPXOrOPXXrOPjPrOPjjrjPPOrjPXPrjPPPrjXOXrjPPOrjOjXrOPXXrOPPjrOjjPrjPXOrOPOOrOjPXrjPPOrjXXjrjPXPrjPPPrOjOXrjPPPrOPPXrOjjXrOPjPrjjOOrjPPPrjXXXrjXXXrOPjPrOPOjrOjPOrOPXOrOPPjrOPXjrOPjjrjPXPrjPPPrOjPXrOjjPrOPjPrOPOjrOPXXrjjOOrjPPPrjPPOrOPOjrOPXOrOPOPrOPjjrOjPOrOPOjrOjjPrjPPOrjPXPrjPPPrOjPXrOPOPrOPjjrOPXPrOPXPrjjOOrjPPPrOjjPrOjPOrOjjjrOPjjrjPPPrOjXjrjPOjrjjOXrjPPPrOPPXrOPOPrOPOjrOPXPrOPjPrjPXOrOPXXrOPXOrjPOPrjPPOrOPPXrOPXPrOPXXrOjPXrOPjjrjPPOrjPXPrjPPPrjPOPrOPPXrOPXXrOPjPrOPjjrjPOjrjPPPrjjXjrjjXOrjPPPrOjOXrjPPPrOPOjrOPjOrjPPPrjPOPrOPPXrOPXXrOPjPrOPjjrjPPPrjjXjrjjXjrjPPPrjjPOrjPOjrjPPPrOjOXrjPPPrOPXPrOPXXrOPjXrjPXOrOPOjrOPXOrOPjOrOPXXrjPOPrjPPOrjXPOrOPjjrOjPXrOjjPrOPPjrOjPOrOjjPrOPOjrOPXOrOPjXrjPPPrjXPPrOjPOrOPXXrOPOOrOPjjrOPPXrOjjPrjPXOrjPXOrjPXOrjPPOrjPOjrjjOXrjPPPrOjPXrOjjPrOPPjrOjPOrOjjPrjXPPrOjPOrOPXXrOPOOrOPjjrOPPXrOjjPrjPOPrjPOjrjjOXrjPPPrOjXjrjPPPrOjXjrjPOjrjjOXrOOOrOjXjrOOOrOjPXrOjjPrOPPjrOjPOrOjjPrjXPPrOjPOrOPXXrOPOOrOPjjrOPPXrOjjPrjPOPrjPOjrjjOXr",26,"PjOXrlfbZ",32,4,9)) 
+/**
+ * @author NTKhang
+ * ! The source code is written by NTKhang, please don't change the author's name everywhere. Thank you for using
+ * ! Official source code: https://github.com/ntkhang03/Goat-Bot-V2
+ * ! If you do not download the source code from the above address, you are using an unknown version and at risk of having your account hacked
+ *
+ * English:
+ * ! Please do not change the below code, it is very important for the project.
+ * It is my motivation to maintain and develop the project for free.
+ * ! If you change it, you will be banned forever
+ * Thank you for using
+ *
+ * Vietnamese:
+ * ! Vui lòng không thay đổi mã bên dưới, nó rất quan trọng đối với dự án.
+ * Nó là động lực để tôi duy trì và phát triển dự án miễn phí.
+ * ! Nếu thay đổi nó, bạn sẽ bị cấm vĩnh viễn
+ * Cảm ơn bạn đã sử dụng
+ */
+
+const { spawn } = require("child_process");
+const log = require("./logger/log.js");
+
+function startProject() {
+	const child = spawn("node", ["Goat.js"], {
+		cwd: __dirname,
+		stdio: "inherit",
+		shell: true
+	});
+
+	child.on("close", (code) => {
+		if (code == 2) {
+			log.info("Restarting Project...");
+			startProject();
+		}
+	});
+}
+
+startProject();
